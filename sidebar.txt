@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sad:home|Door43 (sad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sad|d43-sad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sad/archive/master.zip|d43-sad.zip]]
+
+**Recent Changes**
+{{changes>ns = sad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sad|Ethnologue data]]
+
